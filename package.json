@@ -9,6 +9,7 @@
   "author": "yonatanaduk",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^0.0.4",
     "slugify": "^1.6.5"
   },
   "devDependencies": {
